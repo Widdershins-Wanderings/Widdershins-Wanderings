@@ -1,4 +1,4 @@
 ---
-title: About My Wanderings...
+title: Welcome to my blog
 ---
 
